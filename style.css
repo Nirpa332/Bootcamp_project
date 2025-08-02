@@ -3,10 +3,12 @@
       border: 1px solid #ccc;
       padding: 16px;
       width: 300px;
+
       margin: 20px;
       font-family: Arial, sans-serif;
       background-color: #d9c0a1;
       border-radius: 10px;
+
     }
     .image-placeholder {
       width: 150px;
@@ -22,6 +24,10 @@
       background-image: url(pic.jpg);
       background-size: cover;
     }
+    .npic{
+      background-image: url(nirpa.jpeg);
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
