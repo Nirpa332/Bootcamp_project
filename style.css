@@ -1,0 +1,42 @@
+
+    .box {
+      border: 1px solid #ccc;
+      padding: 16px;
+      width: 300px;
+      margin: 20px;
+      font-family: Arial, sans-serif;
+      background-color: #d9c0a1;
+      border-radius: 10px;
+    }
+    .image-placeholder {
+      width: 150px;
+      height: 150px;
+      background-color: #ddd;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      margin-bottom: 10px;
+      font-weight: bold;
+      border-radius: 50%;
+      margin-left: 75px;
+      background-image: url(pic.jpg);
+      background-size: cover;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0;
+    }
+    table, th, td {
+      border: 1px solid #aaa;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+    }
+    a {
+      display: inline-block;
+      margin-top: 10px;
+      text-decoration: none;
+      color: #007BFF;
+    }
